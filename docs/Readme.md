@@ -14,6 +14,6 @@ La transmission se fera par un systeme de notification et non d'emission sonore
 </ul>
 
 ## Etat d'avancement
-- [ ] Phase documentation
-- [ ] Phase Conception
+- [x] Phase  de documentation
+- [ ] Phase  de Conception
 
