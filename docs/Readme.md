@@ -4,7 +4,7 @@
 Concevoir un dispostif de detection (pour la prevention de vol) et de tracage (en cas de perte), adaptable a un cycle.<br>
 La transmission se fera par un systeme de notification et non d'emission sonore
 
-# Problematique
+## Problematique
 <ul>
   <li> Detection de collision </li>
   <li> Reperage spatio-temporel </li>
@@ -13,7 +13,7 @@ La transmission se fera par un systeme de notification et non d'emission sonore
   <li> Alimentation du dispositif </li>
 </ul>
 
-# Etat d'avancement
+## Etat d'avancement
 - [ ] Phase documentation
 - [ ] Phase Conception
 
